@@ -1,0 +1,1 @@
+# Use this if you would like all of your 100 days of Code logs in one file.
